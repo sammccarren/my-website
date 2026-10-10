@@ -1,0 +1,27 @@
+
+---
+title: ""
+---
+
+<div class="contact-layout">
+
+<div class="contact-text">
+
+# Contact
+
+For questions about my research, collaborations, or other professional enquiries, please contact me via email at [z.mccarren@gmail.com](mailto:z.mccarren@gmail.com) or [sam.mccarren@uct.ac.za](mailto:sam.mccarren@uct.ac.za).
+
+- [Google Scholar](https://scholar.google.com/citations?user=YlOu6ZoAAAAJ&hl=en&oi=ao)
+- [ORCID](https://orcid.org/0000-0002-3861-0811)
+- [ResearchGate](https://www.researchgate.net/profile/Sam-Mccarren?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
+- [LinkedIn](https://www.linkedin.com/in/sam-m-4963b7128/)
+- [BlueSky](https://bsky.app/profile/sam-mccarren.bsky.social)
+
+</div>
+
+<div class="contact-image">
+
+![](images/Sam_watsonia.jpeg){fig-alt="photograph of Sam McCarren in a field of flowering *Watsonia*" width="70%"}
+
+</div>
+</div>

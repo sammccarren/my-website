@@ -1,0 +1,50 @@
+
+---
+title: ""
+---
+
+<div class="home-banner"></div>
+
+
+# Dr Sam McCarren
+
+## Evolutionary ecologist & Pollination biologist
+
+<div class="home-layout">
+
+<div class="home-text">
+
+I am an evolutionary ecologist interested in how biodiversity evolves, from deep evolutionary history and phylogenetic relationships to rapid evolutionary change. My research focuses on plant-animal interactions, pollination biology, and the evolution of floral traits, including polymorphisms and their ecological significance.
+
+I combine field observations and experiments with approaches ranging from greenhouse and laboratory experiments to herbarium-based research and phylogenetic and comparative analyses. I am particularly interested in how ecological interactions shape trait variation and how this variation influences evolutionary processes.
+
+</div>
+
+<div class="home-image">
+
+![](images/SamMcCarren1.jpg){fig-alt="portrait photograph of Sam McCarren" width="70%"}
+
+
+</div>
+
+</div>
+
+## Current research
+
+<div class="current-project">
+
+<div class="project-text">
+
+
+I am currently a postdoctoral researcher at the University of Cape Town, where I investigate evolutionary diversification in the *Erica daphniflora* complex, a group of closely related Cape heath species that vary in floral colour and shape. This project combines phylogenomic analyses, micro-CT scanning to study floral structure in three dimensions, and field observations of plants and their pollinators. I am interested in how evolutionary history, geographic separation and ecological interactions have contributed to the diversity of this group.
+
+</div>
+
+<div class="project-image">
+
+![](images/IMG_6182.jpg){fig-alt="photograph of a moth dringing nectar from white *Erica daphniflora* flowers" width="70%"}
+
+
+</div>
+
+</div>

@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sam McCarren"
+  description: "Evolutionary ecology and pollination biology"
+  navbar:
+    background: "#263f38"
+    foreground: "#ffffff"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        menu:
+          - text: "Floral trait evolution"
+            href: research/erica.qmd
+          - text: "Floral polymorphisms"
+            href: research/lapeirousia.qmd
+          - text: "Enantiostyly"
+            href: research/wachendorfia.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    left: "© 2026 Sam McCarren"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+
+
+

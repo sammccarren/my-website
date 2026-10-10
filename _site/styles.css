@@ -1,0 +1,362 @@
+```css
+/* Overall typography and page spacing */
+body {
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Homepage introduction */
+.home-intro {
+  padding: 2.5rem 0 1.75rem;
+  border-bottom: 1px solid #d9e2dc;
+  margin-bottom: 1.75rem;
+}
+
+.home-intro h1 {
+  font-size: clamp(2.1rem, 4vw, 3rem);
+  font-weight: 600;
+  letter-spacing: -0.035em;
+  line-height: 1.2;
+  color: #263f38;
+}
+
+.home-intro h2 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #657b70;
+  border: none;
+}
+
+/* General headings */
+h1 {
+  font-size: clamp(2rem, 4vw, 2.5rem);
+  line-height: 1.2;
+}
+
+h2, h3 {
+  color: #31594a;
+  margin-top: 1.75rem;
+  line-height: 1.3;
+}
+
+h2 {
+  font-size: clamp(1.35rem, 2.5vw, 1.6rem);
+}
+
+h3 {
+  font-size: clamp(1.05rem, 2vw, 1.2rem);
+}
+
+/* Links */
+a {
+  text-underline-offset: 3px;
+}
+
+/* Navigation */
+.navbar {
+  letter-spacing: 0.02em;
+}
+
+/* Footer */
+.nav-footer {
+  font-size: 0.85rem;
+  color: #657b70;
+}
+
+/* Homepage: text on the left, image on the right */
+.home-layout {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 2.5rem;
+  align-items: center;
+  margin: 2rem 0;
+}
+
+.home-text {
+  min-width: 0;
+}
+
+.home-text h1 {
+  margin-top: 0;
+  color: #263f38;
+}
+
+.home-image {
+  min-width: 0;
+}
+
+.home-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+}
+
+/* Tablets */
+@media (max-width: 800px) {
+  main {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+
+  .home-layout {
+    gap: 1.5rem;
+  }
+
+  .home-intro {
+    padding-top: 2rem;
+  }
+}
+
+/* Phones */
+@media (max-width: 600px) {
+  body {
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+
+  .home-layout {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    margin: 1.5rem 0;
+  }
+
+  .home-intro {
+    padding: 1.75rem 0 1.25rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .home-intro h1,
+  .home-text h1 {
+    font-size: 2rem;
+  }
+
+  .home-image {
+    max-width: 100%;
+  }
+}
+
+
+
+/* Full-window-width homepage banner */
+.home-banner {
+  width: 100vw;
+  height: 420px;
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
+  margin-top: -3.0rem;
+  background-image: url("images/IMG_5714.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 600px) {
+  .home-banner {
+    height: 180px;
+  }
+}
+
+/* Name and subtitle underneath the banner */
+.home-heading {
+  max-width: 900px;
+  margin: 2rem auto 2.5rem;
+  padding: 0 1.25rem;
+}
+
+.home-heading h1 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: #263f38;
+  font-size: clamp(2rem, 4vw, 3rem);
+}
+
+.home-heading p {
+  margin-top: 0;
+  color: #657b70;
+  font-size: 1.1rem;
+}
+
+/* Smaller banner on phones */
+@media (max-width: 600px) {
+  .home-banner {
+    height: 180px;
+  }
+
+  .home-heading {
+    margin-top: 1.5rem;
+  }
+}
+
+
+.current-project {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 2rem;
+  align-items: center;
+  margin: 2rem 0;
+}
+
+.project-text {
+  min-width: 0;
+}
+
+.project-text h2 {
+  margin-top: 0;
+  color: #263f38;
+}
+
+.project-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px;
+}
+
+@media (max-width: 600px) {
+  .current-project {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+
+
+/* publications banner layout */
+.page-banner {
+  width: 100vw;
+  height:420px;
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
+  margin-top: -3rem;
+  margin-bottom: 2rem;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Publications banner */
+.publications-banner {
+  background-image: url("images/IMG_2624.jpg");
+}
+
+@media (max-width: 600px) {
+  .page-banner {
+    height: 160px;
+  }
+}
+
+/* Add space between publications */
+#quarto-content ol li {
+  margin-bottom: 1rem;
+}
+
+
+
+/* Contact page: heading on the left, image on the right */
+.contact-layout {
+  display: grid;
+  grid-template-columns: 0.8fr 1.2fr;
+  gap: 2rem;
+  align-items: start;
+  margin: 0;
+}
+
+.contact-text,
+.contact-image {
+  min-width: 0;
+}
+
+.contact-text h1 {
+  margin-top: 0;
+}
+
+.contact-image p {
+  margin: 0;
+}
+
+.contact-image img {
+  display: block;
+  width: 70%;
+  height: auto;
+  border-radius: 6px;
+}
+
+@media (max-width: 600px) {
+  .contact-layout {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+}
+
+
+
+/* Research pages: text alongside images */
+.research-section {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 2rem;
+  align-items: start;
+  margin: 2rem 0 3rem;
+}
+
+.research-text {
+  min-width: 0;
+}
+
+.research-text h2,
+.research-text h3 {
+  margin-top: 0;
+}
+
+.research-images {
+  min-width: 0;
+}
+
+.research-images img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+}
+
+/* Multiple images in a row */
+.research-image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+
+/* Stack text and images on smaller screens */
+@media (max-width: 600px) {
+  .research-section {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    margin: 1.5rem 0 2rem;
+  }
+}
+
+/* Wachendorfia banner */
+.wachendorfia-banner {
+  background-image: url("images/Pols.jpg");
+}
+
+/* Smaller research page banner */
+.small-page-banner {
+  height: 230px;
+}
+
+/* Smaller banner on phones */
+@media (max-width: 600px) {
+  .small-page-banner {
+    height: 115px;
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "about.qmd": {
+    "about.html": "315f1eed"
+  },
+  "index.qmd": {
+    "index.html": "6b63f3ce"
+  },
+  "contact.qmd": {
+    "contact.html": "8f9a6940"
+  },
+  "cv.qmd": {
+    "cv.html": "b0778ae4"
+  },
+  "publications.qmd": {
+    "publications.html": "850466fa"
+  },
+  "research.qmd": {
+    "research.html": "aa557c2a"
+  },
+  "research/erica.qmd": {
+    "erica.html": "430c2060"
+  },
+  "research/lapeirousia.qmd": {
+    "lapeirousia.html": "e6f0cf32"
+  },
+  "research/wachendorfia.qmd": {
+    "wachendorfia.html": "42d05a80"
+  }
+}

@@ -1,0 +1,51 @@
+---
+title: "Floral polymorphisms"
+---
+
+## Fire-driven diversity
+<div class="research-section">
+  <div class="research-text">
+
+Fire is a common disturbance in the Fynbos, as in all mediterranean ecosytstems.
+This creates both temporal and spatial heterogeneity, which can promote diversity.
+
+Some populations of *Lapeirousia anceps* are bimodal in tube length, 
+i.e. both short- and long-tubed plants coexist. Early after a fire, their 
+long-tongued fly pollinators visit the flowers more frequently. At the same time, 
+long-tubed plants are more abundant and produce more seeds 
+than short-tubed plants. However, after a few years, the flies become rare and 
+short-tubed plants, which can self-pollinate more easily, flower more frequently 
+and produce more seeds than long-tubed plants. Thus, selection favours the two 
+forms during different stages of post-fire succession and thereby contributes to 
+their co-existence. 
+
+  </div>
+  <div class="research-images">
+
+![](../images/IMG_3733.jpg){fig-alt="Photograph of a mountain range on fire"}
+![](../images/lap.jpg){fig-alt="Photograph of a long-tongued fly visiting a *Lapeirousia anceps* flower"}
+  </div>
+</div>
+
+
+## Variation in anther morphology
+<div class="research-section">
+  <div class="research-text">
+  
+Anther structure is one of the most important determinants of pollen transfer. 
+In *Cyanella alba* populations differ in anther dehiscense, with some having 
+poricidal anthers, and others dehiscing laterally. Poricidal anthers are usually 
+indicative of buzz-pollination, but *C. alba* flowers with poricidal anthers receive 
+no visits from buzzing insects, export little pollen and produce few seeds. 
+On the other hand, populations with laterally 
+dehiscing anthers lose more pollen to the environment, but they can also utilize 
+the numerous non-buzzing flower visitors as pollinators. 
+
+  </div>
+  <div class="research-images">
+
+![](../images/connected.jpg){fig-alt="Photograph of poricidal *Cyanella alba* anthers"}
+![](../images/free.jpg){fig-alt="Photograph of laterally dehiscing *Cyanella alba* anthers"}
+
+  </div>
+</div>

@@ -1,0 +1,64 @@
+
+---
+title: ""
+---
+<div class="page-banner publications-banner"></div>
+
+# Publications
+
+## 2026
+
+<ol>
+<li value="13">McCarren S, Barrett SCH, Fairnie A, Watchorn S, Anderson B, Illing N, Ingle RA (2026) [Breakdown of dimorphic enantiostyly is linked to reduced herkogamy and increased self-pollination](https://doi.org/10.1093/aob/mcag213). Annals of Botany mcag213.</li>
+
+<li value="12">McCarren S, Pauw A, Anderson B (2026) [Post-fire succession niches facilitate co-occurrence of divergent flower forms](https://doi.org/10.1093/evolut/qpag128). Evolution qpag128.</li>
+
+<li value="11">Anderson B, McCarren S, Sabino-Oliveira A, Brito VLG (2026) [Abiotic pollen loss: The neglected pollen fate](https://doi.org/10.64898/2026.03.10.710827). bioRxiv 2026.03.10.710827.</li>
+<ol>
+
+## 2025
+
+<ol>
+<li value="10">McCarren S, Daya J, Fairnie ALM, Fagre A, Forsythe D, Roepke TA, Stobie CS (2025) [Facilitating Inclusive Discussions on Sensitive Topics in Biology](https://doi.org/10.1002/ajb2.70133). American Journal of Botany e16195.</li>
+
+<li value="9">Saltini M, McCarren S, Illing N, Barrett SCH, Anderson B (2025) [Selective contexts favouring asymmetry: A theoretical and empirical study of pollen transfer in mirror-image flowers](https://doi.org/10.1101/2025.09.23.677969). bioRxiv 2025.09.23.677969.</li>
+<ol>
+
+## 2024
+
+<ol>
+<li value="8">Weissman JL, Chappell CR, de Oliviera BFR, Evans N, Fagre AC, Forsythe D, Frese SA, Gregor R, Ishaq SL, Johnston J, Bittu KR, Matsuda SB, McCarren S, Ortiz Alvarez de la Campa M, Roepke TA, Sinnott-Armstrong N, Stobie CS, Talluto L, Vargas-Muñiz JM, Advancing Queer and Trans Equity in Science (AQTES) Consortium (2024) [Queer- and trans-inclusive faculty hiring – A call for change](https://doi.org/10.1371/journal.pbio.3002919). PLoS Biol. 22(11): e3002919.</li>
+
+<li value="7">Paudel BR, Fairnie ALM, McCarren S, Anderson B, Illing N, Barrett SCH (2024) [Loss of buzz pollination results in chronic pollen limitation in an enantiostylous plant](171:592-601. https://doi.org/10.1016/j.sajb.2024.06.019). South African Journal of Botany.</li>
+
+<li value="6">McCarren S, Midgley J, Coetzee A, Johnson S (2024) [Pollen transfer efficiency in *Erica* depends on pollinator type](https://doi.org/10.3897/phytokeys.244.107288). PhytoKeys. 244:237-248.</li>
+<ol>
+
+## 2023
+
+<ol>
+<li value="5">McCarren S, Johnson S, Theron G, Coetzee A, Turner R, Midgley J (2023) [Flower orientation as reproductive barrier in pollinator-driven speciation of *Erica shannonea* and *Erica ampullacea*](https://doi.org/10.1111/plb.13575). Plant Biology. 25(7):1083-1090.</li>
+</ol>
+
+## 2022
+
+<ol>
+<li value="4">McCarren S, Midgley J, Johnson S (2022) [Biomechanics of nectar feeding explain flower orientation in long-tongued fly-pollinated plants](https://doi.org/10.1007/s00114-022-01817-6). The Science of Nature. 109(5):47.</li>
+</ol>
+
+## 2021
+
+<ol>
+<li value="3">McCarren S, Midgley J, Coetzee A (2021) [Sending private messages: Floral ultraviolet signals are associated with pollination syndromes in *Erica*](https://doi.org/10.26786/1920-7603(2021)648). Journal of Pollination Ecology. 30(22):289–298.</li>
+
+<li value="2">McCarren S, Coetzee A, Midgley J (2021) [Corolla stickiness prevents nectar robbing in *Erica*](https://doi.org/10.1007/s10265-021-01299-z). Journal of Plant Research. 134:963–970.</li>
+
+<li value="1">McCarren S, Sumasgutner P, Tate G, Koeslag A, Amar A (2021) [Clinal variation in 
+the polymorphic Black Sparrowhawk *Accipiter melanoleucus* is unrelated to infection by 
+the blood parasite *Haemoproteus nisi*](https://doi.org/10.1007/s10336-020-01823-3). Journal of Ornithology. 162(1):231–41.</li>
+</ol>
+
+
+## 
+
+For a complete and up-to-date record, visit my [Google Scholar](https://scholar.google.com/citations?user=YlOu6ZoAAAAJ&hl=en&oi=ao) or [ORCID](https://orcid.org/0000-0002-3861-0811) profile.
