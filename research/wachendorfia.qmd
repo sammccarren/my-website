@@ -11,8 +11,8 @@ title: ""
 
 Enantiostyly is a type of floral polymorphism, where the style of a 
 flower is either deflected to the left or to the right, resulting in 
-mirror-image flowers. This trait is rare and can be
-found in less than 3% of angiosperm species. Most of the species with mirror-image
+mirror-image flowers. This trait is rare and only 
+present in less than 3% of angiosperm species. Most of the species with mirror-image
 flowers are monomorphic, i.e. they produce both left and right flowers on the same
 plant. But there are seven enantiostylous species which are dimorphic, meaning that each individual 
 only produces one type of flower. Of these, the four species in the genus 

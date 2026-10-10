@@ -2,14 +2,14 @@
 title: "Floral trait evolution"
 ---
 
-Flowers of different plant species often differ in their traits, such as colour, texture, orientation, shape or anther structure. These traits can have important consequences for plant reproduction and interactions with pollinators, antagonists and the abiotic environment. These interactions in turn shape the selection pressures that drive the evolution of flowers.
+Flowers of different plant species often differ in traits, such as colour, texture, orientation, shape or anther structure. These traits can have important consequences for plant reproduction and interactions with pollinators, antagonists and the abiotic environment. These interactions in turn shape the selection pressures that drive the evolution of flowers.
 
 ## Ultraviolet colouration
 
 <div class="research-section">
   <div class="research-text">
 
-Humans cannot see ultraviolet (UV) light, but some animals can. While most flowers have pigments that absorb ultraviolet (UV) radiation and protect them just like sunscreen, some *Erica* flowers instead reflect UV. They might be pollinated by animals that are attracted to it.
+Humans cannot see ultraviolet (UV) light, but some animals can. While most flowers have pigments that absorb UV radiation and protect them just like sunscreen, some *Erica* flowers instead reflect UV. They might be pollinated by animals that are attracted to it.
 
 Bee-pollinated ericas normally don’t reflect UV. But all *Erica* species pollinated by long-tongued flies and 17% of sunbird-pollinated ericas reflect UV.
 
@@ -38,7 +38,7 @@ pollinators, but at the same time it could also help to prevent nectar robbing.
 Nectar robbing is when an animal that isn’t the legitimate pollinator pierces a 
 hole in the flower and steals nectar without pollinating it. This damages the 
 flower and takes nectar away from the actual pollinators. Nectar robbing is 
-especially common in bird-pollinated flowers, which often produce high volumes 
+especially common in bird-pollinated flowers, which often produce high volumes of
 nectar. The nectar also attracts insects like bees and ants. But because these 
 insects have short tongues, they cannot reach the nectar legitimately and resort to 
 biting holes at the base of the corolla. However, the stickier the flowers of an 
@@ -67,7 +67,7 @@ restricted to visiting flowers orientated sideways. Nemestrinidae, on the other
 hand, can also swivel their proboscis downwards, allowing them to forage from a 
 wider range of flower orientations.
 
-In the closely related species *Erica shannonea* and *Erica ampullacea* flower 
+In the closely related and co-occurring species *Erica shannonea* and *Erica ampullacea* flower 
 orientation has even contributed to reproductive isolation. *Erica shannonea* points sideways 
 and has a longer corolla. It is pollinated by a tabanid fly with a long tongue. 
 *Erica ampullacea*, on the other hand, has upright flowers that are slightly 

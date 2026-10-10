@@ -6,7 +6,7 @@ title: "Floral polymorphisms"
 <div class="research-section">
   <div class="research-text">
 
-Fire is a common disturbance in the Fynbos, as in all mediterranean ecosytstems.
+Fire is a common disturbance in the Fynbos, as in all Mediterranean ecosystems.
 This creates both temporal and spatial heterogeneity, which can promote diversity.
 
 Some populations of *Lapeirousia anceps* are bimodal in tube length, 

@@ -351,12 +351,12 @@ a {
 
 /* Smaller research page banner */
 .small-page-banner {
-  height: 230px;
+  height: 220px;
 }
 
 /* Smaller banner on phones */
 @media (max-width: 600px) {
   .small-page-banner {
-    height: 115px;
+    height: 110px;
   }
 }
